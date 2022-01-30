@@ -1,0 +1,36 @@
+body {
+  margin-bottom: 120px;
+  margin-top: 30px;
+}
+
+.jumbotron {
+  height: 450px;
+  background-image: url("../Portofolio-Andi/Img/header-bg.png");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -30px;
+  color: #eaeaea;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #eaeaea;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0, 5);
+}
+
+.jumbotron h1,
+.jumbotron p {
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0, 5);
+}
+
+#project {
+  background-color: #b9b9b9;
+}
+
+#project {
+  background-color: #b9b9b9;
+}
+
+section {
+  padding-top: 5rem;
+}
